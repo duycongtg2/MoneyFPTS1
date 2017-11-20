@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Wallet Management"
+        android:id="@+id/mnu1"
+
+        />
+    <item
+        android:title="Budget Management"
+        android:id="@+id/mnu2"
+        />
+    <item
+        android:title="Event"
+        android:id="@+id/mnu3"
+        />
+    <item
+        android:title="Transaction Log"
+        android:id="@+id/mnu4"
+        />
+    <item
+        android:title="Report"
+        android:id="@+id/mnu5"
+        />
+
+
+</menu>
